@@ -49,6 +49,6 @@ async function postProduct() {
   } catch (error) {
     console.error("Error posting product:", error);
   }
-
-  // add fuctions for other functionalities in the contract
 }
+
+ // add fuctions for other functionalities in the contract
